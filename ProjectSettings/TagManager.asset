@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - book
+  - 123
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Light
+  - Foreground
+  - Foreground-2
+  - Grass
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plants
+    uniqueID: 360763573
+    locked: 0
+  - name: Player
+    uniqueID: 3397797153
+    locked: 0
+  - name: Ground
+    uniqueID: 1371440953
+    locked: 0
+  - name: Foreground
+    uniqueID: 2409178709
+    locked: 0
